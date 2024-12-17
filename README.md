@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashokrotta
-- 👀 I’m interested in Coding(data science, mern)
-- 🌱 I’m currently learning Data analytics and ML
+- 👀 I’m interested in Coding(Data Engineering, Data Analytics, AL, ML, Cloud)
+- 🌱 I’m currently learning Data Engineering and analytics
 - 💞️ I’m looking to collaborate on DS Projects
-- 📫 How to reach me ashoknotify@gmail.com
+- 📫 How to reach me ashoknotify@gmail.com / ashokio.rf.gd/info
 
 <!---
 ashokrotta/ashokrotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
